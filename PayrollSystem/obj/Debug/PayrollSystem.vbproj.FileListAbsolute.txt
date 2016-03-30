@@ -1,0 +1,12 @@
+c:\users\stunyi-pc\documents\visual studio 2012\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+c:\users\stunyi-pc\documents\visual studio 2012\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+c:\users\stunyi-pc\documents\visual studio 2012\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+c:\users\stunyi-pc\documents\visual studio 2012\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.xml
+c:\users\stunyi-pc\documents\visual studio 2012\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.FrmPayrollSystem.resources
+c:\users\stunyi-pc\documents\visual studio 2012\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.Resources.resources
+c:\users\stunyi-pc\documents\visual studio 2012\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+c:\users\stunyi-pc\documents\visual studio 2012\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+c:\users\stunyi-pc\documents\visual studio 2012\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.xml
+c:\users\stunyi-pc\documents\visual studio 2012\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
+c:\users\stunyi-pc\documents\visual studio 2012\Projects\PayrollSystem\PayrollSystem\bin\Debug\Payroll.accdb
+c:\users\stunyi-pc\documents\visual studio 2012\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.frmHoursWorked.resources
